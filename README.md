@@ -1,3 +1,2 @@
 # office-IOT-RFID
-this is an arduino program 
-using RC522, esp8266, arduino uno, buzzer
+Enter the office and tap your card so that everyone can see you on an app.
